@@ -337,7 +337,7 @@
                   </div>
                   <div class="col-12">
                     <div class="alert alert-light border small mb-0">
-                      Setelah memilih paket dan mengisi data, klik <strong>Pesan Sekarang</strong>.
+                      Setelah memilih paket dan mengisi data, klik <strong>Pesan Sekarang.</strong>.
                       Kami akan kirim link pembayaran / instruksi aktivasi voucher.
                     </div>
                   </div>
